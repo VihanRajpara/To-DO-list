@@ -21,6 +21,7 @@ function Dashboard() {
     }
 
     if (!user) {
+      console.log("dashbord");
       navigate('/login')
     }
 
