@@ -2,7 +2,7 @@
 
 NODE_ENV = development
 PORT = 5000
-MONGO_URI = mongodb+srv://vihan:vihan@cluster0.r62xhrp.mongodb.net/databasename?retryWrites=true&w=majority
+MONGO_URI = mongodb+srv://username:password@cluster0.r62xhrp.mongodb.net/databasename?retryWrites=true&w=majority
 JWT_SECRET = abc123
 
 ### Install dependencies
